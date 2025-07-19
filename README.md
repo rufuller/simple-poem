@@ -1,5 +1,5 @@
 # simple-poem
-A random poem on a bright Saturday (part of Github for Writers Udemy course)
+A random poem on a bright Saturday (part of Github for Writers Udemy course):
 
 In this moment, invincibility claims me as her own; <br>
 knowledge stands proud as I stretch myself <br>
